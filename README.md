@@ -1,2 +1,2 @@
-# kubernetes-ha
-kubernetes-ha
+clone this repository in your kubernetes cluster
+kubectl apply -f php-guestbook.yaml
